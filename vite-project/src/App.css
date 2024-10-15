@@ -1,0 +1,19 @@
+*{
+  margin: 0;padding: 0;
+}
+@media (max-width:750px){
+  .te{font-size: small;}
+  .ui input{width: 20vw;}
+}
+@media (max-width:635px){
+  .ui input{width: 40vw;}
+  .tab{width: 70vw;}
+}
+@media (max-width:549px){
+  .na{display: none;}
+  .pi{justify-content: center;}
+  .oo{margin-left: 0px;}
+}
+@media (max-width:430px){
+  .pi{width: 102vw;}
+}
